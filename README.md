@@ -1,7 +1,14 @@
+
 ---
 
 <br>
-<p align="center">𐔌՞ ܸ.ˬ.ܸ՞𐦯</p>
+<div align="center">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cloud-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cloud-black.svg">
+    <img height="25" src="./assets/cloud-black.svg" alt="image of cute cat head smiling and looking below">
+    </picture>
+</div>
 <h3 align="center">
     <samp>> Hey there! I'm Jennifer, nice to meet you :)</samp>
 </h3>
@@ -16,9 +23,15 @@
 <br>
 <samp>🏖️ Playing - in my <a href="https://github.com/jenniferlieu-sandbox">[Sandbox]</a> where I experiment and study people's code</samp>
 <br>
-<samp>🌱 Fun fact - my first line of code wasn't <code>Hello, World.</code></samp> <img width="5" height="15" alt="gif of text cursor blinking black to white" src="assets/cursor-blink.gif" />
+<samp>🌱 Fun fact - my first line of code wasn't <code>Hello, World.</code></samp> <img width="5" height="15" alt="gif of text cursor blinking black to white" src="./assets/cursor-blink.gif" />
 <br><br>
 
-<p align="right">⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
+<div align="right">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/boat-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/boat-black.svg">
+    <img height="20" src="./assets/boat-black.svg" alt="image of egpytian hierlogyphs of a boat sailing on water and waves surrounded by the stars">
+    </picture>
+</div>
 
 ---
